@@ -25,7 +25,7 @@ Program parses the data from the file, initializes the board and sets up the con
 Afterwards, proceeds to find a solution to the puzzle,using the depth-first search algorithm.
 Prints board if a solution was found.
 
-So far it has been tested on boards upto 6x6 .
+So far it has been tested on boards upto 9x9 and produces results in less than a second ?
 
 example :
 
